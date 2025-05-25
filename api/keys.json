@@ -1,0 +1,10 @@
+{
+  "ABC123": {
+    "expire": 9999999999,
+    "status": "valid"
+  },
+  "DEF456": {
+    "expire": 1716810000,
+    "status": "expired"
+  }
+}
