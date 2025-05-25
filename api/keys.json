@@ -1,6 +1,6 @@
 {
   "ABC123": {
-    "expire": 1716669000,  // <- Sesuaikan ini dengan os.time() + 600
+    "expire": 1716669000,
     "status": "valid"
   }
 }
